@@ -1,2 +1,5 @@
-# Trabajo_Machine_Learning
-Comparación de distintos modelos de Machine Learning
+# Trabajo Machine Learning
+Comparación de distintos modelos de **Machine Learning**
+
+
+Se adjunta pdf explicativo con todo el código y proceso.
